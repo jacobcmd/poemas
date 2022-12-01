@@ -9,7 +9,8 @@ var urlToCache = [
     "main.js",
     "images/poeta1.jpg",
     "images/poeta2.jpg",
-    "images/poeta3.jpg"
+    "images/poeta3.jpg",
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
 ];
 
 // Evento install
